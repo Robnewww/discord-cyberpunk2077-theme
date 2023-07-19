@@ -838,11 +838,11 @@
 
 /* Folders with servers */
 .folder-241Joy .closedFolderIconWrapper-3tRb2d {
-    background: var(--neon-red-color);
+    background: var(--primary-color);
 }
 
 .folder-241Joy .expandedFolderIconWrapper-3RwQpD {
-    background: var(--light-neon-red-color);
+    background: var(--light-primary-color);
 }
 
 .folder-241Joy .expandedFolderIconWrapper-3RwQpD svg {
