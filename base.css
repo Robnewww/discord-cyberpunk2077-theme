@@ -876,13 +876,13 @@
 
  /* Friends list container */
 .container-2cd8Mz .peopleColumn-1wMU14 {
-    background: linear-gradient(180deg, rgba(23,0,5,1) 12%, rgba(0,0,0,1) 67%);
+    background: linear-gradient(180deg, rgba(62,0,100,.75) 10%, rgba(49,0,82,1) 65%);
 }
 
 .container-2cd8Mz .container-ZMc96U {
     background: black;
     box-sizing: content-box;
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid var(--neon-red-color);
 }
 
 /* Friends icons */
