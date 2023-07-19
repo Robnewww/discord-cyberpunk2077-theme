@@ -9,7 +9,7 @@
  */
 
 @import url('https://fonts.cdnfonts.com/css/gg-sans-2');
-@import url('https://patrykbielanin.github.io/discord-cyberpunk2077-theme/base.css');
+@import url('https://raw.githubusercontent.com/Robnewww/discord-cyberpunk2077-theme/main/base.css');
 
 :root {
     --background-primary: linear-gradient(180deg, rgba(22, 4, 34,.75) 10%, rgba(32, 4, 44,1) 65%);
