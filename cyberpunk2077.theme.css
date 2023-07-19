@@ -8,13 +8,13 @@
  * @donate https://www.paypal.com/donate/?hosted_button_id=PGVKB863SXYUQ
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+@import url('https://fonts.cdnfonts.com/css/gg-sans-2');
 @import url('https://patrykbielanin.github.io/discord-cyberpunk2077-theme/base.css');
 
 :root {
     --background-primary: linear-gradient(180deg, rgba(23,0,23,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
     --background-secondary: linear-gradient(180deg, rgba(23,0,23,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
-    --font-primary: 'Nunito Sans'; /* Font */
+    --font-primary: 'gg sans'; /* Font */
     --primary-text-color: lightgray; /* Font color */
 
     --primary: 23, 11, 22;  /* Background color mainly used for popups */
