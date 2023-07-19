@@ -1,11 +1,11 @@
 :root {
-    --background-primary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%);
-    --background-secondary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%);
-    --font-primary: 'Rajdhani';
+    --background-primary: linear-gradient(180deg, rgba(23,0,23,.75) 10%, rgba(0,0,0,1) 65%);
+    --background-secondary: linear-gradient(180deg, rgba(23,0,23,.75) 10%, rgba(0,0,0,1) 65%);
+    --font-primary: 'Nunito Sans';
     --primary-text-color: lightgray;
 
-    --primary: 23, 13, 22;
-    --red: 255, 0, 60;
+    --primary: 23, 11, 22;
+    --red: 245, 107, 255;
     --blue: 114, 234, 248;
     --yellow: 243, 230, 0;
     --green: 71, 213, 139;
@@ -28,8 +28,8 @@
     --dark-neon-green-color: rgb(var(--dark-green));
 
     /* Variables for custiomization tool */
-    --avatar-circle: 0;
-    --avatar-rounded: 5px;
+    --avatar-circle: 50%;
+    --avatar-rounded: 50%;
     --avatar-border: 1px solid var(--neon-red-color);
 
     /* Discord variables */
