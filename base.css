@@ -1,15 +1,15 @@
 :root {
-  --background-primary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%);
-  --background-secondary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%);
-  --font-primary: 'Rajdhani';
+  --background-primary: linear-gradient(180deg, rgba(62,0,100,.75) 10%, rgba(49,0,82,1) 65%);
+  --background-secondary: linear-gradient(180deg, rgba(62,0,100,.75) 10%, rgba(49,0,82,1) 65%);
+  --font-primary: 'gg sans';
   --primary-text-color: lightgray;
 
-  --primary: 23, 13, 22;
-  --red: 255, 0, 60;
-  --blue: 114, 234, 248;
-  --yellow: 243, 230, 0;
-  --green: 71, 213, 139;
-  --dark-green: 56, 171, 111;
+    --primary: 23, 11, 22;
+    --red: 245, 107, 255;
+    --blue: 114, 234, 248;
+    --yellow: 245, 107, 255;
+    --green: 71, 213, 139;
+    --dark-green: 56, 171, 111;
 
   --primary-color: rgba(var(--primary), 0.9);
   --dark-primary-color: rgba(var(--primary), 1);
@@ -28,9 +28,9 @@
   --dark-neon-green-color: rgb(var(--dark-green));
 
   /* Variables for custiomization tool */
-  --avatar-circle: 0;
-  --avatar-rounded: 5px;
-  --avatar-border: 1px solid var(--neon-red-color);
+  --avatar-circle: 50%;
+  --avatar-rounded: 50%;
+  --avatar-border: none;
 
   /* Discord variables */
   --brand-experiment: var(--neon-red-color);
